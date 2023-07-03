@@ -1,6 +1,8 @@
 # Lemmatization, POS-tags, and authorship attribution
 
 [![paper](https://img.shields.io/badge/arXiv-2206.02208-green)](https://arxiv.org/abs/2206.02208)
+[![paper](https://img.shields.io/badge/DOI-10.1080%2F09296174.2022.2122751-blue)](https://doi.org/10.1080/09296174.2022.2122751)
+
 
 This repository contains input data, the results, and the code to replicate our findings, for the study _Stylistic Fingerprints, POS-tags and Inflected Languages: A Case Study in Polish_. The paper has been published in _Journal of Quantitative Linguistics_, its pre-print version is available on arXive: [https://arxiv.org/abs/2206.02208](https://arxiv.org/abs/2206.02208). 
 
